@@ -1,7 +1,7 @@
 var onLogoutClicked = function(event) {
-    window.location.href = "https://google.de";
+    window.location.href = "XXXXXXX:/FUNCTION/?Params";
 }
 
 var onExternalClicked = function(event) {
-    window.location.href = "XXXXX://RUN.htm?cmdName=Method1&param=123";
+    window.location.href = "https://google.de";
 }
