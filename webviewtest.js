@@ -1,3 +1,3 @@
 var onLogoutClicked = function(event) {
-    document.href = "https://google.de";
+    window.location.href = "https://google.de";
 }
